@@ -8,7 +8,9 @@ I'm interested in React, TypeScript.
 
 ## npm library
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=react-markdown-heading)](https://github.com/kyoncy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=react-markdown-heading)](https://www.npmjs.com/package/react-markdown-heading)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=eslint-plugin-jsx-dollar)](https://www.npmjs.com/package/eslint-plugin-jsx-dollar)
 
 
 <!--
