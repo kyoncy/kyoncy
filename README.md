@@ -12,6 +12,7 @@ I'm interested in React, TypeScript.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=eslint-plugin-jsx-dollar)](https://www.npmjs.com/package/eslint-plugin-jsx-dollar)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=quill-linkify)](https://www.npmjs.com/package/quill-linkify)
 
 <!--
 **kyoncy/kyoncy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
