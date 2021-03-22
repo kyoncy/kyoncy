@@ -2,17 +2,17 @@ I'm interested in React, TypeScript.
 
 ## Stats
 
-[![kyoncy's github stats](https://github-readme-stats.vercel.app/api?username=kyoncy&count_private=true&show_icons=true)](https://github.com/kyoncy)
+[![kyoncy's github stats](https://github-readme-stats.vercel.app/api?username=kyoncy&count_private=true&show_icons=true&theme=dark)](https://github.com/kyoncy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoncy&layout=compact)](https://github.com/kyoncy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoncy&layout=compact&theme=dark)](https://github.com/kyoncy)
 
 ## npm library
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=react-markdown-heading)](https://www.npmjs.com/package/react-markdown-heading)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=react-markdown-heading&theme=dark)](https://www.npmjs.com/package/react-markdown-heading)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=eslint-plugin-jsx-dollar)](https://www.npmjs.com/package/eslint-plugin-jsx-dollar)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=eslint-plugin-jsx-dollar&theme=dark)](https://www.npmjs.com/package/eslint-plugin-jsx-dollar)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=quill-linkify)](https://www.npmjs.com/package/quill-linkify)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyoncy&repo=quill-linkify&theme=dark)](https://www.npmjs.com/package/quill-linkify)
 
 <!--
 **kyoncy/kyoncy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
